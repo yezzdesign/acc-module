@@ -1,5 +1,6 @@
 {
     "name": "yezzdesign/acc",
+    "type": "laravel-module",
     "description": "",
     "authors": [
         {
