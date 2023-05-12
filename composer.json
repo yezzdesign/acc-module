@@ -1,0 +1,23 @@
+{
+    "name": "yezzdesign/acc",
+    "description": "",
+    "authors": [
+        {
+            "name": "Christian Scholz",
+            "email": "yezz.design@schodie.de"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Acc\\": ""
+        }
+    }
+}
